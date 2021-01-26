@@ -15,6 +15,11 @@ social-network-links:
 #  github: daattali
   twitter: AksharKatariya
 
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
 
 #  reddit: yourname
 #  linkedin: 
