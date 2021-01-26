@@ -1,1 +1,34 @@
 theme: jekyll-theme-slate
+title: Akshar's Portfolio
+author: Akshar Katariya
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+social-network-links:
+  email: "akshar.katariya_ug22@ashoka.edu.in"
+# facebook: deanattali
+#  github: daattali
+  twitter: AksharKatariya
+
+
+#  reddit: yourname
+#  linkedin: 
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
